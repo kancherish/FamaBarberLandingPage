@@ -92,10 +92,10 @@ export default function Header() {
                         className="md:hidden py-4 border-t dark:border-gray-700"
                     >
                         <nav className="flex flex-col space-y-4">
-                            {['Home', 'About Us', 'Services', 'Gallery', 'Contact'].map((item) => (
+                            {['Home', 'AboutUs', 'Services', 'Gallery', 'Contact'].map((item) => (
                                 <a
                                     key={item}
-                                    href="#"
+                                    href={"#"+item}
                                     className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 px-3 py-2"
                                 >
                                     {item}
