@@ -95,6 +95,7 @@ export default function Header() {
                             {['Home', 'AboutUs', 'Services', 'Gallery', 'Contact'].map((item) => (
                                 <a
                                     key={item}
+                                    onClick={setIsMenuOpen(false)}
                                     href={"#"+item}
                                     className="text-gray-600 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 px-3 py-2"
                                 >
