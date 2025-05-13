@@ -34,7 +34,7 @@ function Hero() {
                         <motion.a
                             whileHover={{ scale: 1.05 }}
                             className="px-8 py-4 border border-indigo-600 text-indigo-400 rounded-lg font-semibold hover:bg-indigo-600/10 transition-colors"
-                            href="#booking"
+                            href="#Contact"
                         >
                             Book Appointment
                         </motion.a>
