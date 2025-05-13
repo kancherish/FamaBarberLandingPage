@@ -66,9 +66,9 @@ export default function OurLocation() {
                 <div>
                   <h4 className="text-lg font-semibold text-white mb-2">Address</h4>
                   <p className="text-gray-400">
-                    123 Style Avenue<br />
-                    Downtown District<br />
-                    Cityville, ST 12345
+                    500 N Bell Ave#109<br />
+                   Senton ,TX 76209<br />
+                   United States
                   </p>
                 </div>
               </motion.div>
@@ -111,7 +111,7 @@ export default function OurLocation() {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-white">Call Us</h4>
-                    <p className="text-gray-400">(940) 808-1339</p>
+                    <p className="text-gray-400">+1 940-612-9127</p>
                   </div>
                 </div>
 
@@ -128,12 +128,13 @@ export default function OurLocation() {
             </div>
 
             {/* CTA Button */}
-            <motion.button
+            <motion.a
               whileHover={{ scale: 1.05 }}
+              href="#Contact"
               className="w-full bg-indigo-600 hover:bg-indigo-700 text-white py-4 rounded-lg font-semibold mt-8 transition-all"
             >
               Book Appointment
-            </motion.button>
+            </motion.a>
           </motion.div>
         </div>
       </div>

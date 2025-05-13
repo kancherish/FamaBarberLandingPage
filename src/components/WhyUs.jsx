@@ -148,9 +148,9 @@ export default function WhyUs() {
               Experience the FAMA difference. Book your appointment now and join our 
               family of well-groomed gentlemen
             </p>
-            <button className="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all">
+            <a href="#Contact" className="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all">
               Book Appointment
-            </button>
+            </a>
           </div>
         </motion.div>
       </div>

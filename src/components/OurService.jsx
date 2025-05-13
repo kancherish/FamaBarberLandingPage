@@ -47,7 +47,7 @@ const services = [
 
 function OurService() {
   return (
-    <section className="pb-12 pt-20 lg:pb-[90px] lg:pt-[120px] bg-gray-900">
+    <section className="pb-12 pt-20 lg:pb-[90px] lg:pt-[120px] bg-gray-900" id="Services">
       <div className="container mx-auto px-4">
         <motion.div
           initial="hidden"

@@ -40,7 +40,7 @@ function Pricing() {
                                 <span className="text-gray-400">Hot Towel Service</span>
                             </li>
                         </ul>
-                        <a href="#" className="text-white bg-indigo-600 hover:bg-indigo-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Book Appointment</a>
+                        <a href="#Contact"className="text-white bg-indigo-600 hover:bg-indigo-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Book Appointment</a>
                     </div>
 
                     {/* Full Service */}
@@ -76,7 +76,7 @@ function Pricing() {
                                 <span>Premium Styling Products</span>
                             </li>
                         </ul>
-                        <a href="#" className="text-white bg-indigo-600 hover:bg-indigo-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Book Appointment</a>
+                        <a href="#Contact" className="text-white bg-indigo-600 hover:bg-indigo-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Book Appointment</a>
                     </div>
 
                     {/* Premium Experience */}
@@ -112,7 +112,7 @@ function Pricing() {
                                 <span>Luxury Product Suite</span>
                             </li>
                         </ul>
-                        <a href="#" className="text-white bg-indigo-600 hover:bg-indigo-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Book Appointment</a>
+                        <a href="#Contact" className="text-white bg-indigo-600 hover:bg-indigo-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center">Book Appointment</a>
                     </div>
                 </div>
 
