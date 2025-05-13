@@ -25,7 +25,7 @@ function Hero() {
                         <motion.a
                             whileHover={{ scale: 1.05 }}
                             className="px-8 py-4 bg-indigo-600 text-white rounded-lg font-semibold flex items-center justify-center gap-2 hover:bg-indigo-700 transition-colors"
-                            href="#services"
+                            href="#Services"
                         >
                             Our Services
                             <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
