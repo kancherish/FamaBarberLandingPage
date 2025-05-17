@@ -34,22 +34,20 @@ Follow these steps to run the project locally:
 git clone https://github.com/your-username/fama-barber-landing-page.git
 ```
 
-2. Navigate to the Project Directory
-md
-Copy
-Edit
 ### 2. Navigate to the Project Directory
 
 ```bash
 cd fama-barber-landing-page
-3. Install Dependencies
-bash
-Copy
-Edit
+```
+
+### 3. Install Dependencies
+```bash
 npm install
-4. Start the Development Server
-bash
-Copy
-Edit
+```
+
+### 4. Start the Development Server
+```bash
 npm start
+```
+
 The app will be available at http://localhost:3000
